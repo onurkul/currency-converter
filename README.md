@@ -1,4 +1,4 @@
-# Para Birimi Dönüştürücü
-Bu bir "Exchange Rate API" kullanarak oluşturulmuş para birimi dönüştürme projesidir.
+# Currency Converter
+This is a currency conversion project built using an "Exchange Rate API".
 
-Örnek: https://onurkul.com.tr/araclar/para-birimi-donustucu/
+Example: https://onurkul.com.tr/araclar/para-birimi-donustucu/
